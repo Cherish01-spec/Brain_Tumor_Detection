@@ -311,61 +311,6 @@ Unauthorized copying, redistribution, modification, or commercial use of this pr
 
 ### Thank you for visiting this repository.
 
-**Made with ❤️ using Python, YOLOv8, OpenCV, Streamlit, and Deep Learning**
+**Made with Dedication using Python, YOLOv8, OpenCV, Streamlit, and Deep Learning**
 
 </div>
-
----
-
-# 📸 How to Add Your Dashboard Screenshot
-
-## Step 1
-
-Rename your dashboard image exactly as:
-
-```text
-dashboard_screenshot.png
-```
-
----
-
-## Step 2
-
-Move it into the root folder of your project.
-
-Example:
-
-```text
-Brain_Tumor_Detection/
-│
-├── dashboard_screenshot.png
-├── README.md
-├── requirements.txt
-├── ui/
-├── models/
-└── ...
-```
-
----
-
-## Step 3
-
-Commit and push it to GitHub.
-
-```bash
-git add dashboard_screenshot.png README.md
-
-git commit -m "Updated README and added dashboard screenshot"
-
-git push origin main
-```
-
-If your repository uses **master** instead of **main**, replace `main` with `master`.
-
----
-
-## Step 4
-
-Refresh your GitHub repository page.
-
-The dashboard image will automatically appear in the **Dashboard Preview** section of your README.
