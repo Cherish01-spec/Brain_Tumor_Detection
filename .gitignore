@@ -1,0 +1,21 @@
+# Python Environment
+venv/
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+
+# Datasets and Base Models (To avoid GitHub size limits)
+data/raw/
+data/processed/temp/
+models/base/
+
+# Temporary Outputs
+outputs/logs/
+outputs/predictions/
+outputs/reports/
+
+# OS generated files
+.DS_Store
+Thumbs.db

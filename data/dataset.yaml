@@ -1,0 +1,7 @@
+path: D:/Brain_Tumor_Detection/data/processed
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 3
+names: ['tumor_good_chance', 'tumor_less_chance', 'tumor_moderate_chance']
